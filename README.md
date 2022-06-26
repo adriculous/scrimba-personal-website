@@ -1,4 +1,11 @@
-# co95a47efbad515ca16b4b9ef
+# Adrianne's Personal Website: A Scrimba Frontend Developer Career Path Project
+
+This is the very first project created on Scrimba's Module 2 of the Frontend Developer Career Path.
+
+### Components
+- HTML
+- CSS (pre-built)
+- JavaScript/React (pre-built)
 
 ## About Scrimba
 
